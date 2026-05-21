@@ -1,0 +1,17 @@
+SELECT SUM(revenue) AS total_revenue
+FROM sales;
+
+SELECT AVG(revenue) AS avg_order_value
+FROM sales;
+
+SELECT product,
+SUM(quantity) AS total_quantity
+FROM sales
+GROUP BY product
+ORDER BY total_quantity DESC;
+
+SELECT state,
+SUM(revenue) AS state_revenue
+FROM sales
+GROUP BY state
+ORDER BY state_revenue DESC;
