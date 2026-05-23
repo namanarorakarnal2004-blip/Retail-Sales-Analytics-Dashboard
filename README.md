@@ -24,6 +24,17 @@ This project focuses on cleaning, analyzing, and visualizing retail sales data t
 
 ---
 
+## ✅ Week 2 Tasks Completed
+- Imported cleaned dataset into SQL database
+- Wrote complex SQL queries using GROUP BY and ORDER BY
+- Calculated Total Revenue using SUM aggregate function
+- Calculated Average order value using AVG function
+- Identified Best-Selling Products by Volume
+- Analyzed Geographic Sales Distribution
+- Extracted core business metrics using subqueries
+- Committed all SQL scripts to GitHub with semantic commit messages
+  
+
 ## 📂 Project Structure
 
 Retail-Sales-Analytics-Dashboard/
@@ -65,9 +76,12 @@ Retail-Sales-Analytics-Dashboard/
 
 ## 📌 Status
 ✅ Week 1 Completed Successfully
+✅ Week 2 Completed Successfully
 
 ---
 
 ## 👨‍💻 Author
 Naman Arora  
 MBA (Business Analytics)
+---
+
