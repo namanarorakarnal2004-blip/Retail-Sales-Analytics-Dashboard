@@ -83,5 +83,75 @@ Retail-Sales-Analytics-Dashboard/
 ## 👨‍💻 Author
 Naman Arora  
 MBA (Business Analytics)
----
 
+✅ Week 4 Tasks Completed
+
+### Key Insights
+- Total Revenue: ₹2.35 Cr
+- Total Orders: 23,456
+- Total Customers: 6,231
+- Electronics category generated highest revenue (25.5%)
+- Apple iPhone 13 was the best-selling product
+- UPI was the most used payment mode (42.8%)
+- Maharashtra contributed highest revenue
+- Monthly orders showed continuous growth
+- Return Rate remained at 4.31%
+
+### Business Recommendations
+- Increase inventory for top-selling products
+- Focus marketing on Electronics category
+- Expand promotions for UPI payments
+- Improve quality checks to reduce returns
+- Target high-performing states for growth
+
+### Final Deliverables
+- Cleaned Dataset
+- SQL Queries
+- Interactive Power BI Dashboard
+- GitHub Repository Documentation
+
+Key Insights
+1. Revenue Growth
+Total Revenue = ₹2.35 Cr
+Revenue increased by 18.6% vs previous period.
+Sales trend shows a consistent upward growth from May to June.
+
+3. Order Performance
+Total Orders = 23,456
+Order volume increased by 14.8%.
+Customer demand is growing steadily.
+
+4. Product Analysis
+Apple iPhone 13 is the highest revenue-generating product (₹2.35 Cr).
+Samsung Galaxy S21 and boAt Headphones are also strong performers.
+Electronics products dominate overall sales.
+
+5. Category Analysis
+Electronics contributes 25.5% of total revenue.
+Clothing contributes 24.5%.
+Home & Kitchen contributes only 12.7%, indicating lower demand.
+
+6. Customer Analysis
+Total Customers = 6,231
+Customer count increased by 12.7%.
+Growth in customers is supporting revenue growth.
+
+8. Payment Analysis
+UPI (42.8%) is the most preferred payment mode.
+Credit Card and Debit Card are the next popular methods.
+
+Net Banking usage is very low (4.4%).
+9. Geographic Analysis
+Maharashtra generates the highest revenue.
+Karnataka and Tamil Nadu are also strong-performing states.
+These states contribute significantly to total sales.
+
+10. Return Analysis
+Return Rate = 4.31%
+Return rate decreased by 0.8%, indicating better product quality/customer satisfaction.
+
+## 👨‍💻 Author
+Naman Arora  
+MBA (Business Analytics)
+•	Tools & Technologies :ower BI | SQL | Advanced Excel | SAP (Familiar)
+---
