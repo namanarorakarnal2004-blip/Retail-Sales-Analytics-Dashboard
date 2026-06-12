@@ -1,0 +1,80 @@
+# ✅ Week 4 Tasks Completed
+
+## 📈 Key Insights
+
+- Total Revenue: ₹2.35 Cr
+- Total Orders: 23,456
+- Total Customers: 6,231
+- Electronics category generated the highest revenue (25.5%)
+- Apple iPhone 13 was the best-selling product
+- UPI was the most used payment method (42.8%)
+- Maharashtra contributed the highest revenue
+- Monthly orders showed continuous growth
+- Return Rate remained at 4.31%
+
+---
+
+## 🔍 Detailed Analysis
+
+### Revenue Analysis
+Total Revenue reached ₹2.35 Cr, showing an increase of 18.6% compared to the previous period. Sales trends indicate steady business growth and increasing market demand.
+
+### Order Performance
+Total Orders reached 23,456, representing a growth of 14.8%. The increase suggests improved customer engagement and higher transaction volume.
+
+### Product Analysis
+Apple iPhone 13 emerged as the highest revenue-generating product. Other strong-performing products included Samsung Galaxy S21 and Boat Headphones.
+
+### Category Analysis
+Electronics contributed 25.5% of total revenue, making it the top-performing category. Clothing contributed 24.5%, while Home & Kitchen accounted for 12.7%.
+
+### Customer Analysis
+The customer base increased to 6,231 customers, reflecting growing customer acquisition and retention.
+
+### Payment Method Analysis
+UPI accounted for 42.8% of all transactions, making it the preferred payment option. Debit Card and Credit Card were the next most popular methods.
+
+### Geographic Analysis
+Maharashtra generated the highest revenue. Karnataka and Tamil Nadu also contributed significantly to overall sales performance.
+
+### Return Analysis
+The return rate remained at 4.31%, indicating satisfactory product quality and customer satisfaction levels.
+
+---
+
+## 💡 Business Recommendations
+
+- Increase inventory for top-selling products
+- Focus marketing efforts on Electronics category
+- Expand promotional campaigns for UPI payments
+- Improve quality checks to reduce returns
+- Target high-performing states for future expansion
+- Introduce loyalty programs to improve customer retention
+
+---
+
+## 📊 Dashboard Features
+
+- Revenue Tracking
+- Sales Trend Analysis
+- Product Performance Analysis
+- Category-wise Revenue Breakdown
+- Customer Insights
+- Payment Method Analysis
+- Geographic Sales Analysis
+- Return Rate Monitoring
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates end-to-end Retail Sales Analytics using SQL and Power BI. Through data cleaning, querying, visualization, and business analysis, valuable insights were generated to support strategic decision-making and business growth.
+
+---
+
+### 👨‍💻 Author
+Naman Arora
+
+MBA (Business Analytics)
+
+Tools & Technologies: Power BI | SQL | Advanced Excel | SAP (Familiar)
