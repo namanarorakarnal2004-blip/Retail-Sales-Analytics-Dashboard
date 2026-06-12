@@ -33,7 +33,8 @@ This project focuses on cleaning, analyzing, and visualizing retail sales data t
 - Analyzed Geographic Sales Distribution
 - Extracted core business metrics using subqueries
 - Committed all SQL scripts to GitHub with semantic commit messages
-  
+ 
+
 
 ## 📂 Project Structure
 
@@ -77,12 +78,25 @@ Retail-Sales-Analytics-Dashboard/
 ## 📌 Status
 ✅ Week 1 Completed Successfully
 ✅ Week 2 Completed Successfully
+✅ Week 3 Completed Successfully
+✅ Week 4 Completed Successfully
 
 ---
 
 ## 👨‍💻 Author
 Naman Arora  
 MBA (Business Analytics)
+
+## ✅ Week 3 Tasks Completed
+
+- Connected and loaded retail sales dataset into Power BI
+- Created KPI Cards for Total Revenue, Total Orders, and Average Order Value
+- Designed interactive dashboard with charts and visualizations
+- Analyzed sales performance by Product Category and Region
+- Added filters and slicers for dynamic reporting
+- Created data model and established relationships between tables
+- Applied data cleaning and transformation using Power Query
+- Published and documented Power BI dashboard insights
 
 ✅ Week 4 Tasks Completed
 
